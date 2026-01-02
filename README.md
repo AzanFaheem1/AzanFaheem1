@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a frontened developer<br>I am a student of BS IT <br>I am learning python and C++<br>I am a developer of HTML,CSS and Javascript
+I’m a passionate developer working with HTML, CSS, and JavaScript to build clean, responsive web interfaces.
+Currently expanding my skills in C++ and Python with a strong focus on logic building, problem-solving, and core programming concepts.
+
+🚀 Always learning
+💻 Focused on clean code & consistency
+📈 Growing step by step as a developer
 
 
 ## 🌐 Socials:
